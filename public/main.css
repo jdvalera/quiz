@@ -114,6 +114,7 @@
       padding: 10px 25px;
       margin: 10px auto;
       display: block;
+      cursor: pointer;
   }
   
   .result{ 
